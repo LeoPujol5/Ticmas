@@ -1,0 +1,62 @@
+h1{
+    background-color:burlywood;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+}
+h4:hover{
+
+    background:beige;
+    
+    
+}
+
+body {
+    background-color:antiquewhite;
+}
+section{
+    border-style: solid;
+    margin:1cm;
+    background-color:cornsilk;
+}
+#curso{
+    display:block;
+}
+
+p{
+    border-style: solid;
+    padding: 0.5cm;
+    font-style: italic;
+    margin:1cm;
+}
+.div-img {
+    display: flex;
+    justify-content: center;
+  }
+
+h4 {
+    margin-left:1cm;
+}
+#yo{
+
+    font-weight: 3cm;
+    margin-left: 1cm;
+}
+.container {
+    height: 200px;
+    position: relative;
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  #boton{
+    margin: 1cm;
+  }
